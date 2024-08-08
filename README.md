@@ -1,0 +1,2 @@
+# OMEinsumContractionOrders_Benchmark
+benchmarking the OMEinsumContractionOrders.jl
